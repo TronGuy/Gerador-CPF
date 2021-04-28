@@ -2,7 +2,7 @@
   -------------------- Gerador de CPF ------------------
 
   -> Este script foi feito para fins educativos. Não assumo a responsabilidade por qualquer
-     mal uso do mesmo.
+     mal uso do mesmo. Use com sabedoria.
 
    __author__ = LouizF
    __License__ = GPLv3
