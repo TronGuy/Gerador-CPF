@@ -1,9 +1,7 @@
 '''
   -------------------- Gerador de CPF ------------------
 
-  -> Este script foi feito para fins educativos. Não assumo a responsabilidade por qualquer
-     mal uso do mesmo. Use com sabedoria.
-
+  -> Este script foi feito para fins educativos.
    __author__ = LouizF
    __License__ = GPLv3
    __GitHub__ = github.com/TronGuy
